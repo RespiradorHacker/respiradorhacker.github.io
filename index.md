@@ -24,6 +24,13 @@ Participe do Slack [Respirador Hacker](https://join.slack.com/t/respiradorhacker
 
 *Caso não tenha familiaridade com a ferramenta, recomendamos consultar [como usar o Slack](https://slack.com/intl/pt-pt/help/categories/200111606-Como-usar-o-Slack).*
 
+# Gestão
+
+## Trello
+Participe do quadro no [Trello](https://trello.com/invite/b/OnCLRV2w/38a2eea770d700485d9a4baeb2473a7e/respirador-hacker).
+
+*Caso não tenha familiaridade com a ferramenta, recomendamos consultar [como usar o Trello](https://blog.trello.com/br/como-usar-trello-o-que-e).*
+
 # Codificação
 
 ## GitHub
