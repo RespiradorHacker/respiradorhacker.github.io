@@ -7,7 +7,7 @@ permalink: /projetos/
 
 ## [EAR Celso](https://github.com/RespiradorHacker/Projeto-EAR-Celso)
 
-## [Ventivida] (https://github.com/RespiradorHacker/ventivida)
+## [Ventivida](https://github.com/RespiradorHacker/ventivida)
 
 ## [CITI Open Lung](https://github.com/RespiradorHacker/Inspire-OpenLung)
 
