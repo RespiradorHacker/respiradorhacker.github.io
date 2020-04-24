@@ -8,7 +8,7 @@ permalink: /participe/
 ## **Comunicação**
 
 ### Slack
-Participe do Slack [Respirador Hacker](https://join.slack.com/t/respiradorhacker/shared_invite/zt-cz8b6iv8-nPnewxJh1r5T3ZdAZIX_PQ).
+Participe do Slack [Respirador Hacker](https://join.slack.com/t/respiradorhacker/shared_invite/zt-du8w30c2-CEpr5F5nzLHgQIW_KxFk3A).
 
 *Caso não tenha familiaridade com a ferramenta, recomendamos consultar [como usar o Slack](https://slack.com/intl/pt-pt/help/categories/200111606-Como-usar-o-Slack).*
 
