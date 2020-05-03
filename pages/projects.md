@@ -5,7 +5,7 @@ permalink: /projetos/
 
 # Projetos
 
-## [EAR Celso](https://github.com/RespiradorHacker/Projeto-EAR-Celso)
+## [EAR Celso](https://respiradorhacker.github.io/Projeto-EAR-Celso)
 
 ## [Ventivida](https://github.com/RespiradorHacker/ventivida)
 
