@@ -12,10 +12,10 @@ Participe do Slack [Respirador Hacker](https://join.slack.com/t/respiradorhacker
 
 *Caso não tenha familiaridade com a ferramenta, recomendamos consultar [como usar o Slack](https://slack.com/intl/pt-pt/help/categories/200111606-Como-usar-o-Slack).*
 
-### Whatsapp:
+### WhatsApp
 Participe do Whatsapp [Respirador Hacker](https://chat.whatsapp.com/HDBU1Vvcj9JDqsx6MCN6V8)
 
-### Telegram:
+### Telegram
 Participe do Telegram [Respirador Hacker](https://t.me/joinchat/CQ-Afhu3TDUdFYWklEdcYw)
 
 ## **Documentação**
